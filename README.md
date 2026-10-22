@@ -1,55 +1,54 @@
-# Hi, I'm Areeb Noorul Jamal 👋
+# Areeb Noorul Jamal
+### Data Analyst | Data Quality & AI Data Operations
 
-### Aspiring Data Analyst | SQL • Python • Excel • Power BI
+I work at the intersection of **data quality and analytics**. My experience in data annotation, content moderation, and training-data validation has developed my attention to detail, structured review, and ability to identify recurring errors. I’m building on that foundation with SQL, Python, Excel, and Power BI to turn data into reliable analysis and clear reporting.
 
-I’m building practical data-analysis projects focused on cleaning data, validating results, exploring trends, and communicating findings clearly. My professional background in data annotation and content moderation has strengthened my attention to detail and experience working with quality guidelines.
+- **Target roles:** Junior Data Analyst, Data Quality Analyst, Reporting Analyst, AI Quality Analyst
+- **Analytics:** SQL, Excel, Python, pandas, Power BI, DAX
+- **Core strengths:** Data validation, data cleaning, quality checks, exploratory analysis, KPI reporting, error-pattern analysis
+- **Portfolio goal:** Reproducible projects with transparent methods, validated results, and useful visualizations
 
-- **Target role:** Data Analyst / Junior Data Analyst
-- **Analytics toolkit:** SQL, Python, pandas, Excel, Power BI, DAX, Jupyter Notebook
-- **Focus areas:** Data cleaning, exploratory data analysis, data validation, reporting, and business questions
-- **Currently improving:** SQL querying, reproducible Python analysis, and dashboard storytelling
+## Featured projects
 
-## Featured Projects
+### Data analysis
 
-### 1. Amazon Order-History Analysis
-A pandas/Jupyter notebook exploring order amounts, monthly spending, taxes, shipping, and payment methods. The source uses a local personal order-history file, so the notebook needs a configurable input path and privacy review before it can be reproduced publicly.
-[**View notebook →**](https://github.com/Areeb123jamal/Sales-Data-analysis-of-commercial-store-Amazon)
+**[Amazon Order-History Analysis](https://github.com/Areeb123jamal/Sales-Data-analysis-of-commercial-store-Amazon)**  
+A pandas/Jupyter notebook exploring order amounts, monthly spending, taxes, shipping, and payment methods. The source workbook is not included, so the notebook still needs a configurable input path and privacy review before it can be reproduced publicly.
 
-### 2. Supermarket Analysis
-Exploratory analysis of supermarket transaction data, including missing-value inspection and summary analysis. The source CSV is not currently included, so a fresh run requires a permitted dataset.
-[**View notebook →**](https://github.com/Areeb123jamal/weather/blob/main/Supermarket%20Analysis.ipynb)
+**[Supermarket Analysis](https://github.com/Areeb123jamal/weather/blob/main/Supermarket%20Analysis.ipynb)**  
+Exploratory analysis of supermarket transactions using Python notebooks. The source CSV is not included; the README documents the data requirements and reproducibility limitations.
 
-### 3. Weather Analysis
-An exploratory notebook for hourly weather observations, filtering, and grouped summaries. The current notebook references a local CSV that must be supplied to reproduce it.
-[**View notebook →**](https://github.com/Areeb123jamal/weather/blob/main/Weather%20Analysis.ipynb)
+**[Weather Analysis](https://github.com/Areeb123jamal/weather/blob/main/Weather%20Analysis.ipynb)**  
+Explores hourly weather observations with filtering and grouped summaries. Requires the source CSV and an updated input path to rerun from a fresh checkout.
 
-### 4. Gen Z Career Aspirations Dataset
-A normalized Excel dataset that can be used for data validation and further analysis. Verified findings and charts should be added after the workbook has been reviewed.
-[**View repository →**](https://github.com/Areeb123jamal/GenZ-excel)
+**[Gen Z Career Aspirations Dataset](https://github.com/Areeb123jamal/GenZ-excel)**  
+A normalized Excel dataset that can support data-quality checks and further analysis. I’m working toward adding documented, data-backed findings rather than claiming results before validating the workbook.
 
-### 5. AI Resume Screening Prototype
-A Python/Flask prototype that explores text similarity and skill overlap. It is an experimental software project, not a validated hiring model.
-[**View repository →**](https://github.com/Areeb123jamal/-AI-Resume-Screening-System)
+### Additional project
 
-## Skills
+**[AI Resume Screening Prototype](https://github.com/Areeb123jamal/-AI-Resume-Screening-System)**  
+A Python/Flask learning project using text similarity and skill overlap to demonstrate resume/job-description matching. The score is heuristic and unvalidated; it is not a hiring recommendation system.
+
+## Skills & tools
 
 | Area | Tools / methods |
 |---|---|
 | Querying | SQL, PostgreSQL |
-| Analysis | Python, pandas, Jupyter Notebook |
-| Spreadsheets & BI | Excel, Power BI, DAX |
-| Data quality | Missing-value review, validation, consistency checks, error analysis |
+| Data analysis | Python, pandas, Jupyter Notebook |
+| Spreadsheets & reporting | Excel, Power BI, DAX |
+| Data quality | Validation, missing-value review, consistency checks, error-pattern analysis |
 | Visualization | Matplotlib, Seaborn |
+| Work practices | Documentation, quality guidelines, careful review, reproducible analysis |
 
-## What I Bring
-- Experience following detailed quality guidelines and reviewing data for inconsistencies.
-- A careful approach to validating data before reporting findings.
-- A growing portfolio of practical analysis projects and a focus on reproducible work.
+## Professional background
+
+My background includes data annotation and content moderation, training-data quality review, and a Business Analyst internship. These experiences taught me to follow defined quality criteria, investigate inconsistencies, and communicate findings carefully. I’m applying those habits to analytics projects and continuing to strengthen my technical skills.
 
 ## Connect
+
+- **LinkedIn:** [Areeb Noorul Jamal](https://www.linkedin.com/in/areeb-noorul-jamal-6a135b241/)
 - **GitHub:** [Areeb123jamal](https://github.com/Areeb123jamal)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/areeb-noorul-jamal-6a135b241/)
 
 ---
 
-*Project findings are only reported as verified when the data and calculations have been checked. Some notebooks still require source datasets that are not included in the repositories.*
+*I aim to report findings only when they are supported by the data. Some portfolio notebooks still need their source datasets and a fresh end-to-end run before their outputs can be independently reproduced.*
